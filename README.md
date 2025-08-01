@@ -1,4 +1,4 @@
-# Chess Game with Pygame and Stockfish
+# Chess with Pygame and Stockfish
 This project is a Python-based chess game that utilizes the Pygame library for the graphical interface and the Stockfish chess engine for AI gameplay. The game allows a human player to play as White against the AI (Black) in a standard game of chess.
 
 ---
